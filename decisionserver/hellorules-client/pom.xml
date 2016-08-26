@@ -97,7 +97,7 @@
         </dependency>
         <dependency>
             <groupId>org.openshift.quickstarts</groupId>
-            <artifactId>decisionserver-hellorules</artifactId>
+            <artifactId>decisionserver-hellorules-client</artifactId>
             <scope>compile</scope>
         </dependency>
         <dependency>
