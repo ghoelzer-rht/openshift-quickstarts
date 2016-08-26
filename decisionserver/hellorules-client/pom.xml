@@ -3,12 +3,6 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <parent>
-        <groupId>org.openshift.quickstarts</groupId>
-        <artifactId>decisionserver-parent</artifactId>
-        <version>6.4.0.Final</version>
-    </parent>
-
     <groupId>org.openshift.quickstarts</groupId>
     <artifactId>decisionserver-hellorules-client</artifactId>
     <version>1.3.0.Final</version>
