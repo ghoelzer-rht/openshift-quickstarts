@@ -4,8 +4,8 @@
     <modelVersion>4.0.0</modelVersion>
 
     <parent>
-        <groupId>org.kie</groupId>
-        <artifactId>kie-parent-with-dependencies</artifactId>
+        <groupId>org.openshift.quickstarts</groupId>
+        <artifactId>decisionserver-parent</artifactId>
         <version>6.4.0.Final</version>
     </parent>
 
